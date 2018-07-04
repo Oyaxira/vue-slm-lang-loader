@@ -1,0 +1,13 @@
+{
+  "name": "vue-slm-lang-loader",
+  "version": "1.0.0",
+  "description": "vue slm lang loader by vue-loader v15",
+  "main": "index.js",
+  "repository": "https://github.com/Oyaxira/vue-slm-lang-loader.git",
+  "author": "oyaxira <oyaxira@vip.qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "slm": "^2.0.0"
+  }
+}
